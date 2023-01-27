@@ -7,8 +7,3 @@ Heya, I'm a Computer Science enthusiast, and artificial intelligence specificall
 **Discord** `ark#9999` I only have one active Discord account and My Discord ID is `413204744828616714`. Please make sure the ID is correct!
 
 ![Discord Contact](https://github.com/averyark/portfolio/raw/master/images/DiscordContact.PNG)
-
-## Note
-
-- **You don't have to account for extra costs if I overshoot the initial expected completion time.**
-- **I don't accept percentages. I only accept payment in USD with PayPal.**
