@@ -12,13 +12,13 @@
 
 
 <div align=center>
-    <img src="images/languages/c.svg" alt="Clang" width="28" height="28" class="filter-white"> 
+    <img src="images/languages/c.svg" alt="Clang" width="28" height="28"> 
     <img src="images/languages/c++.svg" alt="C++" width="28" height="28"> 
     <img src="images/languages/python.svg" alt="Python" width="28" height="28"> 
     <img src="images/languages/go.svg" alt="Golang" width="28" height="28"> 
     <img src="images/languages/lua.png" alt="Lua" width="28" height="28"> 
     <img src="images/languages/luau.png" alt="Luau" width="28" height="28"> 
-    <img src="images/languages/rust.svg" alt="Rust" width="28" height="28" class="svg-white"> 
+    <img src="images/languages/rust.png" alt="Rust" width="28" height="28"> 
 </div>
 
 ***
