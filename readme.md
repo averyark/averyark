@@ -6,9 +6,8 @@
 
 <style>
     .svg-white{
-    filter: invert(48%) sepia(79%) saturate(2476%) brightness(118%) contrast(119%);
-}
-  }
+        filter: invert(48%) sepia(79%) saturate(2476%) brightness(118%) contrast(119%);
+    }
 </style>
 
 
