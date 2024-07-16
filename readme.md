@@ -1,15 +1,8 @@
 ## Welcome to my portfolio
 
-👋 Hi, I'm Avery (not my real name). 19 years old and coded since 7, passion is the drive. Thank you so much for visiting. Within this timeframe, I learnt how to code in several languages: Luau, Lua, Python, Go, Rust, C++ and C.
+👋 Hi, I'm Avery (not my real name), thank you for visiting. I'm 19 and I coded since 7, passion is the drive. Within this timeframe, I learnt how to code in several languages: Luau, Lua, Python, Go, Rust, C++ and C. I'm thrive to learn more so this is not the end of the list.
 
 ***
-
-<style>
-    .svg-white{
-        filter: invert(48%) sepia(79%) saturate(2476%) brightness(118%) contrast(119%);
-    }
-</style>
-
 
 <div align=center>
     <img src="images/languages/c.svg" alt="Clang" width="28" height="28"> 
